@@ -1,10 +1,10 @@
 ### Hello, I'm Victória! 
 
-👩‍💻 I'm a Computer Science student and I'm working on my second undergraduate research project about Machine Learning.
+👩‍💻 I'm a Computer Science student and I've worked on my second undergraduate research project about Machine Learning.
 
-🎮 I like to play video games, listen to music and watch TV shows in my free time.
+🎮 I like to play video games, listen to music and watch TV shows.
 
-📚 I've been studying Machine Learning for over a year and I'm trying to develop my first personal project using Python. 
+📚 I've been studying Machine Learning for over a year. 
 
 [![Victória's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriamartins&theme=bear&show_icons=false)](https://github.com/victoriamartins/github-readme-stats)
 
