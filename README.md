@@ -1,6 +1,6 @@
 ### Hello, I'm Victória! 
 
-👩‍💻 I'm a Computer Science student and I've worked on my second undergraduate research project about Machine Learning.
+👩‍💻 I'm a Computer Science student and I've worked on my second undergraduate research project about Deep Learning.
 
 🎮 I like to play video games, listen to music and watch TV shows.
 
