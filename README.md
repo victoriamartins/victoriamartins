@@ -1,6 +1,6 @@
 ### Hey, I'm Victória! 
 
-👩‍💻 I'm almost graduating in Computer Science, and I worked on two undergraduate research projects about Machine Learning during graduation.
+👩‍💻 I'm a Computer Scientist, and I worked on Machine Learning projects during graduation.
 
 🔍 As my final assignment, I made a prototype of a mobile application for fine motor skill improvement after a UX research process. You can check it [here at Figma](https://www.figma.com/file/lT8J78eEVur6jFRCSmFTRE/tcc-2.0?node-id=0%3A1&t=qbzoDa7vsbfdLWij-1).
 
