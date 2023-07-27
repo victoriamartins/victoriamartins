@@ -1,10 +1,11 @@
-### Hey, I'm Victória! 
+<h1 align="center">Hey, I'm Victória! 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/victoria-martins13/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/victoria_martinss/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
-👩‍💻 I'm a Computer Scientist currently studying Front-End Development with ReactJS, you'll find all of my personal projects here.
+💼 I'm a Computer Scientist currently working as an IT support professional at UENP.
 
-🔍 As my final assignment in university, I made a prototype of a mobile application for fine motor skill improvement after a UX research process. You can check it [here at Figma](https://www.figma.com/file/lT8J78eEVur6jFRCSmFTRE/tcc-2.0?node-id=0%3A1&t=qbzoDa7vsbfdLWij-1).
+🖥️ Here, I store all my personal projects since I have a passion for studying front-end development (especially with React).
 
-🎮 I like to play video games, listen to music and watch TV shows.
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victoria-martins13/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/victoria_martinss/)
+🕹️ My hobbies include playing video games, watching TV shows, and sewing my own clothing.
